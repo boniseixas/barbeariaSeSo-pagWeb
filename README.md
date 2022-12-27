@@ -25,20 +25,20 @@
 **Conhecimentos adquiridos nesta etapa:**
 + Uma introdução ao HTML e às suas tags;
 + Como definir o título e os parágrafos de um texto;
-   * Utilizando as tags <h1> e <p>, respectivamente;
-+ Como dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag <strong>;
-+ Como dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag <em>.
+   * Utilizando as tags h1 e parágrafo (p), respectivamente;
++ Como dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag strong;
++ Como dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag em.
 
 ## 2. Separando o conteúdo e informações
 **Conhecimentos adquiridos nesta etapa**
 + A definir a estrutura básica do HTML;
    * Com a tag DOCTYPE, definimos qual versão do HTML estamos utilizando;
-   * A tag <html>, que marca o conteúdo a ser renderizado no navegador;
+   * A tag html, que marca o conteúdo a ser renderizado no navegador;
       * Dentro desta tag, podemos definir a linguagem da página, através da propriedade lang;
-+ Como passar as informações do encoding da nossa página para o navegador, através da tag <meta> e da propriedade charset;
-+ Como definir o título de uma página, através da tag <title>;
-+ Como separar as informações que estão sendo passadas para o navegador, utilizando a tag <head>;
-+ Como separar o conteúdo da página, utilizando a tag <body>.
++ Como passar as informações do encoding da nossa página para o navegador, através da tag meta e da propriedade charset;
++ Como definir o título de uma página, através da tag title;
++ Como separar as informações que estão sendo passadas para o navegador, utilizando a tag head;
++ Como separar o conteúdo da página, utilizando a tag body.
 
 ## 3. Trabalhando com CSS
 **Conhecimentos adquiridos nesta etapa**
@@ -49,7 +49,7 @@
    * Na cor do texto (color);
 + CSS inline;
    * Na linha onde temos a nossa tag, adicionamos a propriedade do CSS;
-+ A tag <style>;
++ A tag style;
    * Dentro da tag, podemos colocar marcações de CSS referentes aos elementos que temos no nosso HTML;
 + A apresentação do CSS com um arquivo externo;
 + Como funciona o estilo em cascata do CSS;
@@ -74,11 +74,11 @@
 ## 5. Listas de divisões de conteúdo
 **Conhecimentos adquiridos nesta etapa**
 + A trabalhar com listas não-ordenadas e listas ordenadas;
-   * Para cada um dos itens da lista, utilizamos a tag <li>;
+   * Para cada um dos itens da lista, utilizamos a tag li;
 + O conceito das classes no CSS;
    * Elas servem para marcar itens, que são repetíveis;
 + Como referenciar uma classe no CSS;
-+ Divisões de conteúdo, utilizando a tag <div>;
++ Divisões de conteúdo, utilizando a tag div;
 + Os comportamentos inline e block.
 
 ## 6. Finalizando a página

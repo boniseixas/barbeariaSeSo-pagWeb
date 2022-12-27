@@ -1,6 +1,6 @@
 # HTML5 e CSS3 parte 1: crie uma página da Web
 
-<img src="/logos/html.png" alt="Logo HTML" width="60" height="60"> <img src="/logos/css.png" alt="Logo CSS" width="60" height="60">
+<img src="/logos/html.png" alt="Logo HTML" width="60" height="60"> <img src="/logos/css.png" alt="Logo CSS" width="40" height="60">
 
 *****
 

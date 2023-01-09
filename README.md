@@ -11,23 +11,27 @@ In these trainings, we will use HTML and CSS and create layouts for a static web
 
 ### Etapas dos treinamentos:
 #### 1. Primeiro curso: Crie uma página da Web
-         1.1. Marcação do primeiro texto;
-         1.2. Separando o conteúdo e informações;
-         1.3. Trabalhando com CSS;
-         1.4. Estilizando imagens;
-         1.5. Listas de divisões de conteúdo; e
-         1.6. Finalizando a página.
+      1.1. Marcação do primeiro texto;
+      1.2. Separando o conteúdo e informações;
+      1.3. Trabalhando com CSS;
+      1.4. Estilizando imagens;
+      1.5. Listas de divisões de conteúdo; e
+      1.6. Finalizando a página.
 #### 2. Segundo curso: Posicionamento, listas e navegação
-         2.1. Criando uma nova página;
-         2.2. Navegação entre páginas;
-         2.3. Posicionamento dos elementos;
-         2.4. A tag section;
-         2.5. Lidando com bordas;
-         2.6. Pseudo-classes CSS; e
-         2.7. Finalizando a página de produtos.
+      2.1. Criando uma nova página;
+      2.2. Navegação entre páginas;
+      2.3. Posicionamento dos elementos;
+      2.4. A tag section;
+      2.5. Lidando com bordas;
+      2.6. Pseudo-classes CSS; e
+      2.7. Finalizando a página de produtos.
  #### 3. Terceiro curso: Trabalhando com formulários e tabelas
-         3.1. Criando uma nova página;
-         3.2
+      3.1. Criando uma nova página;
+      3.2. Começando um formulário;
+      3.3. Tipos de campos diferentes;
+      3.4. Melhorando a semântica;
+      3.5. CSS avançado;
+      3.6. Estrutura de tabela.
 
 *****
 

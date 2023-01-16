@@ -246,6 +246,8 @@ In these trainings, we will use HTML and CSS and create layouts for a static web
    * A tag tfoot, que representa o rodapé da tabela;
 + A estilizar a tabela.
 
+*****
+
 #### Habilidades desenvolvidas no quarto curso de HTML 5 e CSS 3 - Avançando no CSS:
 + Importe conteúdo externo na sua página HTML, como fontes, vídeos e mapas;
 + Conheça pseudo-classes e pseudo-elementos;
@@ -310,6 +312,8 @@ In these trainings, we will use HTML and CSS and create layouts for a static web
 + **Design responsivo**: como ajustar o estilo da nossa página de acordo com o tamanho da tela do dispositivo que a acesse:
    * **Meta tag** de *Viewport*;
    * *Media Queries*.
+
+*****
 
 ### Conclusão
 Desde o início dos treinamentos, exploramos o conceito de **tag** até elaborar um site completo com três páginas, links externos, vídeos, mapa e navegação entre outas **tags**.

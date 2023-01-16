@@ -20,26 +20,28 @@ In these trainings, we will use HTML and CSS and create layouts for a static web
    1.6. Finalizando a página.
 
 <h4>2. Segundo curso: Posicionamento, listas e navegação</h4>
-   2.1. Criando uma nova página;
-   2.2. Navegação entre páginas;
-   2.3. Posicionamento dos elementos;
-   2.4. A tag section;
-   2.5. Lidando com bordas;
-   2.6. Pseudo-classes CSS; e
+   2.1. Criando uma nova página;<br>
+   2.2. Navegação entre páginas;<br>
+   2.3. Posicionamento dos elementos;<br>
+   2.4. A tag section;<br>
+   2.5. Lidando com bordas;<br>
+   2.6. Pseudo-classes CSS; e<br>
    2.7. Finalizando a página de produtos.
+
 <h4>3. Terceiro curso: Trabalhando com formulários e tabelas</h4>
-   3.1. Criando uma nova página;
-   3.2. Começando um formulário;
-   3.3. Tipos de campos diferentes;
-   3.4. Melhorando a semântica;
-   3.5. CSS avançado; e
+   3.1. Criando uma nova página;<br>
+   3.2. Começando um formulário;<br>
+   3.3. Tipos de campos diferentes;<br>
+   3.4. Melhorando a semântica;<br>
+   3.5. CSS avançado; e<br>
    3.6. Estrutura de tabela.
+
 <h4>4. Quarto curso: Avançando no CSS</h4>
-   4.1. Adaptando a página inicial;
-   4.2. Conteúdo externo;
-   4.3. Melhorando o CSS;
-   4.4. Selecionando qualquer coisa;
-   4.5. Opacidade e sombra; e
+   4.1. Adaptando a página inicial;<br>
+   4.2. Conteúdo externo;<br>
+   4.3. Melhorando o CSS;<br>
+   4.4. Selecionando qualquer coisa;<br>
+   4.5. Opacidade e sombra; e<br>
    4.6. Design responsivo;
 
 *****

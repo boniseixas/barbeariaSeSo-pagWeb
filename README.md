@@ -1,41 +1,49 @@
-## Curso de HTML5 e CSS3 parte 1: crie uma página da Web
-## Curso de HTML5 e CSS3 parte 2: posicionamento, listas e navegação
-## Curso de HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
+<h2>Curso de HTML5 e CSS3 parte 1: crie uma página da Web</h2>
+<h2>Curso de HTML5 e CSS3 parte 2: posicionamento, listas e navegação</h2>
+<h2>Curso de HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas</h2>
+<h2>Curso de HTML5 e CSS3 parte 4: avançando no CSS</h2>
 
 <img src="/logos/html.png" alt="Logo HTML" width="60" height="60"> <img src="/logos/css.png" alt="Logo CSS" width="40" height="60">
 
 *****
 
-### Introduction
+<h3>Introduction</h3>
 In these trainings, we will use HTML and CSS and create layouts for a static web page.
 
-### Etapas dos treinamentos:
-#### 1. Primeiro curso: Crie uma página da Web
-      1.1. Marcação do primeiro texto;
-      1.2. Separando o conteúdo e informações;
-      1.3. Trabalhando com CSS;
-      1.4. Estilizando imagens;
-      1.5. Listas de divisões de conteúdo; e
-      1.6. Finalizando a página.
-#### 2. Segundo curso: Posicionamento, listas e navegação
-      2.1. Criando uma nova página;
-      2.2. Navegação entre páginas;
-      2.3. Posicionamento dos elementos;
-      2.4. A tag section;
-      2.5. Lidando com bordas;
-      2.6. Pseudo-classes CSS; e
-      2.7. Finalizando a página de produtos.
- #### 3. Terceiro curso: Trabalhando com formulários e tabelas
-      3.1. Criando uma nova página;
-      3.2. Começando um formulário;
-      3.3. Tipos de campos diferentes;
-      3.4. Melhorando a semântica;
-      3.5. CSS avançado;
-      3.6. Estrutura de tabela.
+<h3>Etapas dos treinamentos:</h3>
+<h4>1. Primeiro curso: Crie uma página da Web</h4>
+   1.1. Marcação do primeiro texto;
+   1.2. Separando o conteúdo e informações;
+   1.3. Trabalhando com CSS;
+   1.4. Estilizando imagens;
+   1.5. Listas de divisões de conteúdo; e
+   1.6. Finalizando a página.
+<h4>2. Segundo curso: Posicionamento, listas e navegação</h4>
+   2.1. Criando uma nova página;
+   2.2. Navegação entre páginas;
+   2.3. Posicionamento dos elementos;
+   2.4. A tag section;
+   2.5. Lidando com bordas;
+   2.6. Pseudo-classes CSS; e
+   2.7. Finalizando a página de produtos.
+<h4>3. Terceiro curso: Trabalhando com formulários e tabelas</h4>
+   3.1. Criando uma nova página;
+   3.2. Começando um formulário;
+   3.3. Tipos de campos diferentes;
+   3.4. Melhorando a semântica;
+   3.5. CSS avançado; e
+   3.6. Estrutura de tabela.
+<h4>4. Quarto curso: Avançando no CSS</h4>
+   4.1. Adaptando a página inicial;
+   4.2. Conteúdo externo;
+   4.3. Melhorando o CSS;
+   4.4. Selecionando qualquer coisa;
+   4.5. Opacidade e sombra; e
+   4.6. Design responsivo;
 
 *****
 
-#### Habilidades desenvolvidas no primeiro curso de HTML 5 e CSS 3:
+#### Habilidades desenvolvidas no primeiro curso de HTML 5 e CSS 3 - Crie uma página da Web:
 * Aprender o que é o HTML e o CSS;
 * Entender a estrutura básica de um arquivo HTML;
 * Utilizar o navegador para inspecionar elementos;
@@ -111,7 +119,7 @@ In these trainings, we will use HTML and CSS and create layouts for a static web
 
 *****
 
-#### Habilidades desenvolvidas no segundo curso de HTML 5 e CSS 3:
+#### Habilidades desenvolvidas no segundo curso de HTML 5 e CSS 3 - Posicionamento, listas e navegação:
 + Aprender a estrutura da página HTML;
 + Navegar entre páginas web;
 + Conhecer reset.css e o posicionamento pelo CSS;
@@ -169,7 +177,7 @@ In these trainings, we will use HTML and CSS and create layouts for a static web
 
 *****
 
-#### Habilidades desenvolvidas no terceiro curso de HTML 5 e CSS 3:
+#### Habilidades desenvolvidas no terceiro curso de HTML 5 e CSS 3 - trabalhando com formulários e tabelas:
 + Criar formulários complexos;
 + Trabalhar com campos para celulares;
 + Apresentar informações em tabelas;
@@ -234,3 +242,72 @@ In these trainings, we will use HTML and CSS and create layouts for a static web
    * A tag th, que representa a célula do cabeçalho da tabela;
    * A tag tfoot, que representa o rodapé da tabela;
 + A estilizar a tabela.
+
+#### Habilidades desenvolvidas no quarto curso de HTML 5 e CSS 3 - Avançando no CSS:
++ Importe conteúdo externo na sua página HTML, como fontes, vídeos e mapas;
++ Conheça pseudo-classes e pseudo-elementos;
++ Use seletores de CSS avançados;
++ Saiba como lidar com opacidade e sombra; e
++ Entenda sobre o Viewport e design responsivo.
+
+#### 4.1 Adaptando a página inicial
+**Conhecimentos adquiridos nesta etapa:**
++ A ajustar a página principal para utilizar os mesmos padrões da página de produtos;
++ Medidas proporcionais com **CSS**;
++ Como funciona a flutuação dos elementos e como modificá-la, com a propriedade *float* do **CSS**; e
++ Como limpar o *float*, com a propriedade *clear* do **CSS**.
+
+#### 4.2 Conteúdo externo
+**Conhecimentos adquiridos nesta etapa:**
++ A utilizar **fontes externas** nas nossas páginas;
++ Como incorporar um **mapa** à nossa página; e
++ Como incorporar um **vídeo** à nossa página.
+
+#### 4.3 Melhorando o CSS
+**Conhecimentos adquiridos nesta etapa:**
++ A melhorar mais ainda a semântica da página principal, com novas divisões, classes, etc;
++ Novas **pseudo-classes**;
++ Como aplicar um *background* gradiente na página; e
++ *Pseudo-elementos*.
+
+#### 4.4 Selecionando qualquer coisa
+**Conhecimentos adquiridos nesta etapa:**
++ Seletores avançados CSS:
+   * Seletor **>**, para acessar os filhos de determinado elemento. Por exemplo, para acessar todos os **p** dentro de **main**:
+      ~~~CSS
+      main > p {
+      }
+      ~~~
+   * Seletor **+**, para acessar o primeiro irmão de determinado elemento. Por exemplo, para acessar o primeiro **p** após um **img**:
+      ~~~CSS
+      img + p {
+      }
+      ~~~
+   * Seletor **~**, para acessar todos os irmãos de determinado elemento. Por exemplo, para acessar todos os **p** após um **img**:
+      ~~~CSS
+      img ~ p {
+      }
+      ~~~
+   * Seletor **not**, para acessar os elementos, exceto, algum. Por exemplo, para acessar todos os **p** dentro de **main**, exceto o **p** que tem **id missao**:
+      ~~~CSS
+	    main p:not(#missao) {
+	    }
+       ~~~
+   * Como fazer contas com **CSS**, com a propriedade **calc**.
+
+#### 4.5 Opacidade e sombra
+**Conhecimentos adquiridos nesta etapa:**
++ Como manipular a opacidade dos elementos, com a **propriedade CSS** *opacity*;
++ Como manipular a opacidade das cores;
++ Como adicionar um sombreamento em volta dos elementos, com a **propriedade CSS** *box-shadow*;
++ Como adicionar um sombreamento em **textos**, com a **propriedade CSS** *text-shadow*.
+
+#### 4.6 Design responsivo
+**Conhecimentos adquiridos nesta etapa:**
++ **Design responsivo**: como ajustar o estilo da nossa página de acordo com o tamanho da tela do dispositivo que a acesse:
+   * **Meta tag** de *Viewport*;
+   * *Media Queries*.
+
+### Conclusão
+Desde o início dos treinamentos, exploramos o conceito de **tag** até elaborar um site completo com três páginas, links externos, vídeos, mapa e navegação entre outas **tags**.
+Conhecemos novidades do **CSS** e como utilizar seus recursos de maneira simples. Com o conteúdo aprendido nestes cursos, podemos criar o próprio site.
